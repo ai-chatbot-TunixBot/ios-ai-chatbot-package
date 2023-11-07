@@ -1,0 +1,6 @@
+framework module AIChatbotFramework {
+  umbrella header "AIChatbotFramework.h"
+
+  export *
+  module * { export * }
+}
