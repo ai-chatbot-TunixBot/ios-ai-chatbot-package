@@ -41,6 +41,5 @@ let package = Package(
             name: "AIChatbotTests",
             dependencies: ["AIChatbot"]),
         .binaryTarget(name: "AIChatbotFramework", path: "./Sources/AIChatbot/AIChatbotFramework.xcframework"),
-
     ]
 )
